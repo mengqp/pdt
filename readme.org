@@ -1,0 +1,45 @@
+#+TITLE: pdt --protocol debug tool
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="../../css/readtheorg.css" />
+#+OPTIONS: ^:nil
+
+
+* Table of Contents                                         :TOC_4_org:noexport:
+
+
+* descriptin
+  I use the tools, has not yet finished
+
+* src
+  Source code for this project
+
+** pdt
+   Main code
+
+*** pdt --main program
+
+*** public --lib interface for public
+
+*** protocol --lib interface for protocol
+
+*** project --lib interface for project
+
+*** comm --lib interface for communication
+
+*** dock --lib interface for dockwidget(communication message and program log)
+
+* docs
+
+** org
+   [[./docs/org/idea.org][idea]]
+
+   [[./docs/org/issue.org][issue]]
+
+** web
+
+** docs
+
+** data
+
+** project
+
+* release
